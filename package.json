@@ -1,0 +1,10 @@
+{
+  "name": "zmnv-css-offsets",
+  "version": "1.0.0",
+  "description": "Add margins and paddings to elements by classes, not css property. Sometimes its useful... Very useful :)",
+  "author": "Valeriy Zimnev",
+  "repository": {
+    "git": "https://github.com/zmnv/zmnv-css-offsets.git"
+  },
+  "license": "MIT"
+}
