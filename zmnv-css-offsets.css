@@ -5,6 +5,14 @@
 
 *********************************************************************/
 
+.mar-4 { margin: 4px; }
+.mar-8 { margin: 8px; }
+.mar-16 { margin: 16px; }
+.mar-24 { margin: 24px; }
+.mar-32 { margin: 32px; }
+.mar-48 { margin: 48px; }
+.mar-64 { margin: 64px; }
+
 .mar-l-4 { margin-left: 4px; }
 .mar-l-8 { margin-left: 8px; }
 .mar-l-16 { margin-left: 16px; }
@@ -36,6 +44,14 @@
 .mar-b-32 { margin-bottom: 32px; }
 .mar-b-48 { margin-bottom: 48px; }
 .mar-b-64 { margin-bottom: 64px; }
+
+.pad-4 { padding: 4px; }
+.pad-8 { padding: 8px; }
+.pad-16 { padding: 16px; }
+.pad-24 { padding: 24px; }
+.pad-32 { padding: 32px; }
+.pad-48 { padding: 48px; }
+.pad-64 { padding: 64px; }
 
 .pad-l-4 { padding-left: 4px; }
 .pad-l-8 { padding-left: 8px; }
