@@ -22,15 +22,19 @@
 
 1. Выносим отступы из CSS в HTML:
 ```html
+<div class="mar-16">Внешние отступы со всех сторн</div>
+<div class="pad-16">Внутренние отступы со всех сторн</div>
+
 <div class="mar-t-4">Отступ сверху (снаружи блока) на 4px</div>
 <div class="pad-b-32">Отступ снизу (внутри блока) на 32px</div>
+
 <div class="mar-l-16 pad-t-8 pad-b-8">Комбинация отступов</div>
 ```
 
 2. Используем внутри CSS с помощью `extend` в PostCSS:
 ```css
 .app-container {
-    @extend .mar-t-8;
+    @extend .mar-8;
 }
 
 .app-container__element {
